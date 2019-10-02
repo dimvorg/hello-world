@@ -4,5 +4,7 @@ class MyClass {
 
         MyClass( int a ) {}
 
+
+// Comment added by thanasis
 };
 
