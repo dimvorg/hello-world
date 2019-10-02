@@ -2,3 +2,7 @@ Supporting Interlife boats
 
 class Boat {
 }
+
+
+class SmallBoat {  // in test_interlife_boat
+}
